@@ -1,17 +1,17 @@
 # Vim Cheatsheet
 
 # Moving Around
-h - Move one character to the left
-j - Move down one line
-k - Move up one line
-l - Move one character to the right
-0 - Move cursor to the beginning on the line
-$ - Move cursor to the end of the line
-w - Moves forward one word
-b - Moves backward one word
-G - Moves to the end of the file
-gg - Moves to the beginning of the file
-`. - Moves to the last edit of the file
+- *h* - Move one character to the left
+- *j* - Move down one line
+- *k* - Move up one line
+- *l* - Move one character to the right
+- *0* - Move cursor to the beginning on the line
+- *$* - Move cursor to the end of the line
+- *w* - Moves forward one word
+- *b* - Moves backward one word
+- *G* - Moves to the end of the file
+- *gg* - Moves to the beginning of the file
+- *`.* - Moves to the last edit of the file
 
 # Editing
 d - Starts the delete operation
